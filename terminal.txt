@@ -1,0 +1,24 @@
+cd= choose directory
+cd ..= directory up
+../.. and so on
+ls= list
+touch file/name.txt= create file
+mkdir filer/name= make directory or folder
+rm file.name= remove file PERMAMENTLY
+rm -rf folder.name= remove folder
+pwd= show current directory location
+cp fileyouwanttocopy copiedfilename= copy file
+mv file ~/wanteddirectory= moved file to wanted directory
+mv filename newfilename= rename file
+up arrow= insert previously used command
+less file.name= to view file in terminal
+
+Git
+	to push to repositry
+		git init while in the folder you want to push
+		git add
+			. = entire foler
+			<file name> = one file
+		git commit -m "<comment"
+		git remote add origin <webpage/repositry name>
+		git push -u origin master
