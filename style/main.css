@@ -1,0 +1,40 @@
+#potatobrown {
+	color: brown;
+	font-weight:bold;
+	font-size: 25px;
+}
+.potatoblood{
+
+	color:#800000;
+}
+
+
+h1{
+	border: 2px solid #800000;
+
+}
+span {
+	
+	font-family:courier;
+	font-size:15px;
+}
+
+body{
+	color: green;
+	text-align:center;
+	background-image: url("photos/pile.jpeg");
+	background-color: #cccccc;
+}
+
+
+
+img{
+	height: 200px;
+	width: 250px;
+}
+
+.orange{
+	color: orange;
+	background-color: black;
+	text-align: center;
+}
